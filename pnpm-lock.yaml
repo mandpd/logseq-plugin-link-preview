@@ -6,7 +6,7 @@ specifiers:
   '@semantic-release/exec': 6.0.2
   '@semantic-release/git': 10.0.1
   '@semantic-release/npm': 8.0.3
-  '@types/react': 17.0.35
+  '@types/react': 17.0.38
   '@types/react-dom': 17.0.11
   '@vercel/node': 1.12.1
   '@vitejs/plugin-react': 1.1.0
@@ -35,7 +35,7 @@ devDependencies:
   '@semantic-release/exec': 6.0.2
   '@semantic-release/git': 10.0.1
   '@semantic-release/npm': 8.0.3
-  '@types/react': 17.0.35
+  '@types/react': 17.0.38
   '@types/react-dom': 17.0.11
   '@vercel/node': 1.12.1
   '@vitejs/plugin-react': 1.1.0
@@ -485,11 +485,11 @@ packages:
   /@types/react-dom/17.0.11:
     resolution: {integrity: sha512-f96K3k+24RaLGVu/Y2Ng3e1EbZ8/cVJvypZWd7cy0ofCBaf2lcM46xNhycMZ2xGwbBjRql7hOlZ+e2WlJ5MH3Q==}
     dependencies:
-      '@types/react': 17.0.35
+      '@types/react': 17.0.38
     dev: true
 
-  /@types/react/17.0.35:
-    resolution: {integrity: sha512-r3C8/TJuri/SLZiiwwxQoLAoavaczARfT9up9b4Jr65+ErAUX3MIkU0oMOQnrpfgHme8zIqZLX7O5nnjm5Wayw==}
+  /@types/react/17.0.38:
+    resolution: {integrity: sha512-SI92X1IA+FMnP3qM5m4QReluXzhcmovhZnLNm3pyeQlooi02qI7sLiepEYqT678uNiyc25XfCqxREFpy3W7YhQ==}
     dependencies:
       '@types/prop-types': 15.7.4
       '@types/scheduler': 0.16.2
